@@ -1,14 +1,12 @@
-#djnago¸¦ ÀÌ¿ëÇÑ Ã¹ À¥»çÀÌÆ® ¸¸µé±â
-##[Àå°í°É½º](https://tutorial.djangogirls.org/ko/django_start_project/)
-###for windows 
+# djnagoë¥¼ ì´ìš©í•œ ì²« ì›¹ì‚¬ì´íŠ¸ ë§Œë“¤ê¸°(windows)[ì¥ê³ ê±¸ìŠ¤](https://tutorial.djangogirls.org/ko/django_start_project/)
 
-##django ½ÇÇà
-> > mkdir djangogirls
-> > cd djangogirls
-> > myvenv\Scripts\activate
-> (myvenv)> python manage.py runserver
+## django ì‹¤í–‰  
+mkdir djangogirls  
+cd djangogirls  
+myvenv\Scripts\activate  
+(myvenv)> python manage.py runserver    
 
-##browser¿¡¼­ È®ÀÎ
-#####http://127.0.0.1:8000/
+## browserì—ì„œ í™•ì¸  
+##### http://127.0.0.1:8000/  
 
 
